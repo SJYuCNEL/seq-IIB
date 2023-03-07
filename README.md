@@ -1,2 +1,2 @@
 # seq-IIB
-sequential invariant information bottleneck (under review by ICASSP-23)
+sequential invariant information bottleneck (accepted by ICASSP-23)
